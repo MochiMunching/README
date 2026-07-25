@@ -16,13 +16,13 @@
 
 ## 🤖 About Me
 
-I'm an early-career **AI/ML builder** who ships end-to-end tools with Claude and other LLMs — then teaches non-technical teams to run them. I've delivered software for environmental nonprofits and public agencies, and I'm pulled toward **social-impact work**.
+I'm an early-career **AI/ML builder** who ships end-to-end tools then teaches non-technical teams to run them. I've delivered software for environmental nonprofits and public agencies, and I'm pulled toward **social-impact work**.
 
 - 🎓 B.S. Artificial Intelligence & Machine Learning + A.S. Computer Science (Chandler-Gilbert CC, expected 2028)
 - 🔬 Undergraduate Researcher at ASU's Ira A. Fulton Schools of Engineering (Intel-funded REU) — Vision Transformers & neural networks
 - 🌐 AI & ML Fellow, Cornell Tech – Break Through Tech
 - 🎯 Seeking AI/ML engineering roles, especially social-impact and applied ML
-- 📍 Gilbert, AZ
+- 📍 Phoenix, AZ
 
 ---
 
