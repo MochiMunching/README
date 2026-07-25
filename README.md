@@ -79,7 +79,7 @@ I'm an early-career **AI/ML builder** who ships end-to-end tools then teaches no
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN)  <!-- REPLACE with your real LinkedIn URL -->
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/donovon-mott-az/)  <!-- REPLACE with your real LinkedIn URL -->
 - 📧 **Email:** don2206688@maricopa.edu
 
 ---
